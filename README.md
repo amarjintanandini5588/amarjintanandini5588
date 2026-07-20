@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Amarjinta Nandini 👋
 
-<!--
-**amarjintanandini5588/amarjintanandini5588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Artificial Intelligence Intern at Persevex LLP
 
-Here are some ideas to get you started:
+💻 Learning:
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming Soon...
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/amarjinta-nandini-01a07a338?utm_source=share_via&utm_content=profile&utm_medium=member_android
